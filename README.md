@@ -1,6 +1,7 @@
 # Power-BI-_New Orleans and surrounding areas AIRBNB_
 
-Este panel interactivo en Power BI ofrece una visión general sobre los tipos de alojamiento disponibles en Airbnb en la ciudad de Nueva Orleans y sus alrededores. Se analizan aspectos clave del mercado de hospedajes como el precio promedio, la evolución histórica de las incorporaciones, y las tipologías de propiedad y habitación más comunes. Fue mi primer proyecto realizado en contextos formativos, por lo que tiene mucho por mejorar. Sin embargo, es parte del proceso y por este motivo me gusta compartirlo. 
+Este panel interactivo en Power BI ofrece una visión general sobre los tipos de alojamiento disponibles en Airbnb en la ciudad de Nueva Orleans y sus alrededores. Se analizan aspectos clave del mercado de hospedajes como el precio promedio, la evolución histórica de las incorporaciones, y las tipologías de propiedad y habitación más comunes. Fue mi primer proyecto realizado en contextos formativos, por lo que tiene mucho por mejorar. Sin embargo, es parte del proceso y por este motivo elijo compartirlo. 
+
 
 ![image](https://github.com/user-attachments/assets/7de983a1-3a76-424d-bb1c-f264f555ec74)
 Principales insights:
